@@ -90,6 +90,28 @@ namespace UserAdminApp.Repo
             }
         }
 
+        public static List<User> DisplayActiveUsers()
+        {
+            var user = users.Where(x => x.IsActive).ToList();  //true condition check
+            if (user == null)
+            {
+                throw new EmptyListException("No active users");
+            }
+
+            return user;
+        }
+
+        public static List<User> DisplayInactiveUsers()
+        {
+            var user = users.Where(x => !x.IsActive).ToList();  //false condition check
+            if (user == null)
+            {
+                throw new EmptyListException("No Inactive users");
+            }
+
+            return user;
+        }
+
         //public static void ExitAdminPanel()
         //{
         //    DataSerializer.Serializer(users);

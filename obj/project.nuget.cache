@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "RDct72duUZY=",
+  "dgSpecHash": "4Q0971cW7/0=",
   "success": true,
-  "projectFilePath": "C:\\Users\\nimith.shetty\\Desktop\\AproSCM\\UserAdminApp\\UserAdminApp.csproj",
+  "projectFilePath": "D:\\C# Training github\\ContactApp\\UserAdminApp.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\nimith.shetty\\.nuget\\packages\\system.configuration.configurationmanager\\8.0.0\\system.configuration.configurationmanager.8.0.0.nupkg.sha512",
     "C:\\Users\\nimith.shetty\\.nuget\\packages\\system.diagnostics.eventlog\\8.0.0\\system.diagnostics.eventlog.8.0.0.nupkg.sha512",

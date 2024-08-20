@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\nimith.shetty\\Desktop\\AproSCM\\UserAdminApp\\UserAdminApp.csproj": {}
+    "D:\\C# Training github\\ContactApp\\UserAdminApp.csproj": {}
   },
   "projects": {
-    "C:\\Users\\nimith.shetty\\Desktop\\AproSCM\\UserAdminApp\\UserAdminApp.csproj": {
+    "D:\\C# Training github\\ContactApp\\UserAdminApp.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\nimith.shetty\\Desktop\\AproSCM\\UserAdminApp\\UserAdminApp.csproj",
+        "projectUniqueName": "D:\\C# Training github\\ContactApp\\UserAdminApp.csproj",
         "projectName": "UserAdminApp",
-        "projectPath": "C:\\Users\\nimith.shetty\\Desktop\\AproSCM\\UserAdminApp\\UserAdminApp.csproj",
+        "projectPath": "D:\\C# Training github\\ContactApp\\UserAdminApp.csproj",
         "packagesPath": "C:\\Users\\nimith.shetty\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\nimith.shetty\\Desktop\\AproSCM\\UserAdminApp\\obj\\",
+        "outputPath": "D:\\C# Training github\\ContactApp\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\nimith.shetty\\AppData\\Roaming\\NuGet\\NuGet.Config",

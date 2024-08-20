@@ -1,77 +1,77 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\nimith.shetty\\Desktop\\AproSCM\\UserAdminApp\\",
+  "WorkspaceRootPath": "D:\\C# Training github\\ContactApp\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{0FB69FC1-AC3A-4177-9AC3-57088CB5135F}|UserAdminApp.csproj|c:\\users\\nimith.shetty\\desktop\\aproscm\\useradminapp\\repo\\staffmanagement.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{0FB69FC1-AC3A-4177-9AC3-57088CB5135F}|UserAdminApp.csproj|solutionrelative:repo\\staffmanagement.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{0FB69FC1-AC3A-4177-9AC3-57088CB5135F}|UserAdminApp.csproj|c:\\users\\nimith.shetty\\desktop\\aproscm\\useradminapp\\repo\\adminmanagement.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{0FB69FC1-AC3A-4177-9AC3-57088CB5135F}|UserAdminApp.csproj|solutionrelative:repo\\adminmanagement.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{0FB69FC1-AC3A-4177-9AC3-57088CB5135F}|UserAdminApp.csproj|c:\\users\\nimith.shetty\\desktop\\aproscm\\useradminapp\\controller\\admincontrol.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{0FB69FC1-AC3A-4177-9AC3-57088CB5135F}|UserAdminApp.csproj|d:\\c# training github\\contactapp\\controller\\admincontrol.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{0FB69FC1-AC3A-4177-9AC3-57088CB5135F}|UserAdminApp.csproj|solutionrelative:controller\\admincontrol.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{0FB69FC1-AC3A-4177-9AC3-57088CB5135F}|UserAdminApp.csproj|c:\\users\\nimith.shetty\\desktop\\aproscm\\useradminapp\\controller\\usermenu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{0FB69FC1-AC3A-4177-9AC3-57088CB5135F}|UserAdminApp.csproj|solutionrelative:controller\\usermenu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{0FB69FC1-AC3A-4177-9AC3-57088CB5135F}|UserAdminApp.csproj|d:\\c# training github\\contactapp\\repo\\adminmanagement.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0FB69FC1-AC3A-4177-9AC3-57088CB5135F}|UserAdminApp.csproj|solutionrelative:repo\\adminmanagement.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{0FB69FC1-AC3A-4177-9AC3-57088CB5135F}|UserAdminApp.csproj|c:\\users\\nimith.shetty\\desktop\\aproscm\\useradminapp\\controller\\staffcontrol.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{0FB69FC1-AC3A-4177-9AC3-57088CB5135F}|UserAdminApp.csproj|d:\\c# training github\\contactapp\\repo\\staffmanagement.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0FB69FC1-AC3A-4177-9AC3-57088CB5135F}|UserAdminApp.csproj|solutionrelative:repo\\staffmanagement.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0FB69FC1-AC3A-4177-9AC3-57088CB5135F}|UserAdminApp.csproj|d:\\c# training github\\contactapp\\controller\\staffcontrol.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{0FB69FC1-AC3A-4177-9AC3-57088CB5135F}|UserAdminApp.csproj|solutionrelative:controller\\staffcontrol.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{0FB69FC1-AC3A-4177-9AC3-57088CB5135F}|UserAdminApp.csproj|c:\\users\\nimith.shetty\\desktop\\aproscm\\useradminapp\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{0FB69FC1-AC3A-4177-9AC3-57088CB5135F}|UserAdminApp.csproj|d:\\c# training github\\contactapp\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{0FB69FC1-AC3A-4177-9AC3-57088CB5135F}|UserAdminApp.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{0FB69FC1-AC3A-4177-9AC3-57088CB5135F}|UserAdminApp.csproj|c:\\users\\nimith.shetty\\desktop\\aproscm\\useradminapp\\models\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{0FB69FC1-AC3A-4177-9AC3-57088CB5135F}|UserAdminApp.csproj|d:\\c# training github\\contactapp\\controller\\usermenu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0FB69FC1-AC3A-4177-9AC3-57088CB5135F}|UserAdminApp.csproj|solutionrelative:controller\\usermenu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0FB69FC1-AC3A-4177-9AC3-57088CB5135F}|UserAdminApp.csproj|d:\\c# training github\\contactapp\\models\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{0FB69FC1-AC3A-4177-9AC3-57088CB5135F}|UserAdminApp.csproj|solutionrelative:models\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{0FB69FC1-AC3A-4177-9AC3-57088CB5135F}|UserAdminApp.csproj|c:\\users\\nimith.shetty\\desktop\\aproscm\\useradminapp\\services\\dataserializer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{0FB69FC1-AC3A-4177-9AC3-57088CB5135F}|UserAdminApp.csproj|d:\\c# training github\\contactapp\\services\\dataserializer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{0FB69FC1-AC3A-4177-9AC3-57088CB5135F}|UserAdminApp.csproj|solutionrelative:services\\dataserializer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{0FB69FC1-AC3A-4177-9AC3-57088CB5135F}|UserAdminApp.csproj|c:\\users\\nimith.shetty\\desktop\\aproscm\\useradminapp\\assets\\myusers.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "AbsoluteMoniker": "D:0:0:{0FB69FC1-AC3A-4177-9AC3-57088CB5135F}|UserAdminApp.csproj|d:\\c# training github\\contactapp\\assets\\myusers.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
       "RelativeMoniker": "D:0:0:{0FB69FC1-AC3A-4177-9AC3-57088CB5135F}|UserAdminApp.csproj|solutionrelative:assets\\myusers.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{0FB69FC1-AC3A-4177-9AC3-57088CB5135F}|UserAdminApp.csproj|c:\\users\\nimith.shetty\\desktop\\aproscm\\useradminapp\\app.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
+      "AbsoluteMoniker": "D:0:0:{0FB69FC1-AC3A-4177-9AC3-57088CB5135F}|UserAdminApp.csproj|d:\\c# training github\\contactapp\\app.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
       "RelativeMoniker": "D:0:0:{0FB69FC1-AC3A-4177-9AC3-57088CB5135F}|UserAdminApp.csproj|solutionrelative:app.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{0FB69FC1-AC3A-4177-9AC3-57088CB5135F}|UserAdminApp.csproj|c:\\users\\nimith.shetty\\desktop\\aproscm\\useradminapp\\models\\contacts.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{0FB69FC1-AC3A-4177-9AC3-57088CB5135F}|UserAdminApp.csproj|d:\\c# training github\\contactapp\\models\\contacts.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{0FB69FC1-AC3A-4177-9AC3-57088CB5135F}|UserAdminApp.csproj|solutionrelative:models\\contacts.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{0FB69FC1-AC3A-4177-9AC3-57088CB5135F}|UserAdminApp.csproj|c:\\users\\nimith.shetty\\desktop\\aproscm\\useradminapp\\exceptions\\contactdetailnotfoundexception.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{0FB69FC1-AC3A-4177-9AC3-57088CB5135F}|UserAdminApp.csproj|d:\\c# training github\\contactapp\\exceptions\\contactdetailnotfoundexception.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{0FB69FC1-AC3A-4177-9AC3-57088CB5135F}|UserAdminApp.csproj|solutionrelative:exceptions\\contactdetailnotfoundexception.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{0FB69FC1-AC3A-4177-9AC3-57088CB5135F}|UserAdminApp.csproj|c:\\users\\nimith.shetty\\desktop\\aproscm\\useradminapp\\models\\contactdetails.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{0FB69FC1-AC3A-4177-9AC3-57088CB5135F}|UserAdminApp.csproj|d:\\c# training github\\contactapp\\models\\contactdetails.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{0FB69FC1-AC3A-4177-9AC3-57088CB5135F}|UserAdminApp.csproj|solutionrelative:models\\contactdetails.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{0FB69FC1-AC3A-4177-9AC3-57088CB5135F}|UserAdminApp.csproj|c:\\users\\nimith.shetty\\desktop\\aproscm\\useradminapp\\exceptions\\contactnotexistexception.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{0FB69FC1-AC3A-4177-9AC3-57088CB5135F}|UserAdminApp.csproj|d:\\c# training github\\contactapp\\exceptions\\contactnotexistexception.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{0FB69FC1-AC3A-4177-9AC3-57088CB5135F}|UserAdminApp.csproj|solutionrelative:exceptions\\contactnotexistexception.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{0FB69FC1-AC3A-4177-9AC3-57088CB5135F}|UserAdminApp.csproj|c:\\users\\nimith.shetty\\desktop\\aproscm\\useradminapp\\exceptions\\emptylistexception.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{0FB69FC1-AC3A-4177-9AC3-57088CB5135F}|UserAdminApp.csproj|d:\\c# training github\\contactapp\\exceptions\\emptylistexception.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{0FB69FC1-AC3A-4177-9AC3-57088CB5135F}|UserAdminApp.csproj|solutionrelative:exceptions\\emptylistexception.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{0FB69FC1-AC3A-4177-9AC3-57088CB5135F}|UserAdminApp.csproj|c:\\users\\nimith.shetty\\desktop\\aproscm\\useradminapp\\exceptions\\usernotfoundexception.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{0FB69FC1-AC3A-4177-9AC3-57088CB5135F}|UserAdminApp.csproj|d:\\c# training github\\contactapp\\exceptions\\usernotfoundexception.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{0FB69FC1-AC3A-4177-9AC3-57088CB5135F}|UserAdminApp.csproj|solutionrelative:exceptions\\usernotfoundexception.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{0FB69FC1-AC3A-4177-9AC3-57088CB5135F}|UserAdminApp.csproj|c:\\users\\nimith.shetty\\desktop\\aproscm\\useradminapp\\exceptions\\adminaccessexception.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{0FB69FC1-AC3A-4177-9AC3-57088CB5135F}|UserAdminApp.csproj|d:\\c# training github\\contactapp\\exceptions\\adminaccessexception.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{0FB69FC1-AC3A-4177-9AC3-57088CB5135F}|UserAdminApp.csproj|solutionrelative:exceptions\\adminaccessexception.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{0FB69FC1-AC3A-4177-9AC3-57088CB5135F}|UserAdminApp.csproj|c:\\users\\nimith.shetty\\desktop\\aproscm\\useradminapp\\exceptions\\operationdeniedexception.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{0FB69FC1-AC3A-4177-9AC3-57088CB5135F}|UserAdminApp.csproj|d:\\c# training github\\contactapp\\exceptions\\operationdeniedexception.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{0FB69FC1-AC3A-4177-9AC3-57088CB5135F}|UserAdminApp.csproj|solutionrelative:exceptions\\operationdeniedexception.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
@@ -82,17 +82,17 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 4,
+          "SelectedChildIndex": 2,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 5,
               "Title": "UserMenu.cs",
-              "DocumentMoniker": "C:\\Users\\nimith.shetty\\Desktop\\AproSCM\\UserAdminApp\\Controller\\UserMenu.cs",
+              "DocumentMoniker": "D:\\C# Training github\\ContactApp\\Controller\\UserMenu.cs",
               "RelativeDocumentMoniker": "Controller\\UserMenu.cs",
-              "ToolTip": "C:\\Users\\nimith.shetty\\Desktop\\AproSCM\\UserAdminApp\\Controller\\UserMenu.cs",
+              "ToolTip": "D:\\C# Training github\\ContactApp\\Controller\\UserMenu.cs",
               "RelativeToolTip": "Controller\\UserMenu.cs",
-              "ViewState": "AQIAAAkAAAAAAAAAAAAAAA8AAAAuAAAA",
+              "ViewState": "AQIAAAUAAAAAAAAAAAAiwBMAAAAMAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-08-17T10:27:33.805Z",
               "EditorCaption": ""
@@ -101,63 +101,63 @@
               "$type": "Document",
               "DocumentIndex": 1,
               "Title": "AdminManagement.cs",
-              "DocumentMoniker": "C:\\Users\\nimith.shetty\\Desktop\\AproSCM\\UserAdminApp\\Repo\\AdminManagement.cs",
+              "DocumentMoniker": "D:\\C# Training github\\ContactApp\\Repo\\AdminManagement.cs",
               "RelativeDocumentMoniker": "Repo\\AdminManagement.cs",
-              "ToolTip": "C:\\Users\\nimith.shetty\\Desktop\\AproSCM\\UserAdminApp\\Repo\\AdminManagement.cs",
+              "ToolTip": "D:\\C# Training github\\ContactApp\\Repo\\AdminManagement.cs",
               "RelativeToolTip": "Repo\\AdminManagement.cs",
-              "ViewState": "AQIAADcAAAAAAAAAAAAcwGcAAAABAAAA",
+              "ViewState": "AQIAAGYAAAAAAAAAAAAgwGwAAAAzAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-08-18T17:22:19.53Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 0,
               "Title": "AdminControl.cs",
-              "DocumentMoniker": "C:\\Users\\nimith.shetty\\Desktop\\AproSCM\\UserAdminApp\\Controller\\AdminControl.cs",
+              "DocumentMoniker": "D:\\C# Training github\\ContactApp\\Controller\\AdminControl.cs",
               "RelativeDocumentMoniker": "Controller\\AdminControl.cs",
-              "ToolTip": "C:\\Users\\nimith.shetty\\Desktop\\AproSCM\\UserAdminApp\\Controller\\AdminControl.cs",
+              "ToolTip": "D:\\C# Training github\\ContactApp\\Controller\\AdminControl.cs",
               "RelativeToolTip": "Controller\\AdminControl.cs",
-              "ViewState": "AQIAAI4AAAAAAAAAAIAwwIUAAAAAAAAA",
+              "ViewState": "AQIAABUAAAAAAAAAAAAQwE8AAAAmAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-08-17T10:32:42.776Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 3,
               "Title": "StaffControl.cs",
-              "DocumentMoniker": "C:\\Users\\nimith.shetty\\Desktop\\AproSCM\\UserAdminApp\\Controller\\StaffControl.cs",
+              "DocumentMoniker": "D:\\C# Training github\\ContactApp\\Controller\\StaffControl.cs",
               "RelativeDocumentMoniker": "Controller\\StaffControl.cs",
-              "ToolTip": "C:\\Users\\nimith.shetty\\Desktop\\AproSCM\\UserAdminApp\\Controller\\StaffControl.cs",
+              "ToolTip": "D:\\C# Training github\\ContactApp\\Controller\\StaffControl.cs",
               "RelativeToolTip": "Controller\\StaffControl.cs",
-              "ViewState": "AQIAABwAAAAAAAAAAAAgwBAAAAANAAAA",
+              "ViewState": "AQIAAE8AAAAAAAAAAAAgwFoAAAAjAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-08-17T10:32:32.349Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 2,
               "Title": "StaffManagement.cs",
-              "DocumentMoniker": "C:\\Users\\nimith.shetty\\Desktop\\AproSCM\\UserAdminApp\\Repo\\StaffManagement.cs",
+              "DocumentMoniker": "D:\\C# Training github\\ContactApp\\Repo\\StaffManagement.cs",
               "RelativeDocumentMoniker": "Repo\\StaffManagement.cs",
-              "ToolTip": "C:\\Users\\nimith.shetty\\Desktop\\AproSCM\\UserAdminApp\\Repo\\StaffManagement.cs",
+              "ToolTip": "D:\\C# Training github\\ContactApp\\Repo\\StaffManagement.cs",
               "RelativeToolTip": "Repo\\StaffManagement.cs",
-              "ViewState": "AQIAAHEAAAAAAAAAAAAAwCMAAAAIAAAA",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAAAAsAAAAFAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-08-17T10:51:33.492Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 4,
               "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\nimith.shetty\\Desktop\\AproSCM\\UserAdminApp\\Program.cs",
+              "DocumentMoniker": "D:\\C# Training github\\ContactApp\\Program.cs",
               "RelativeDocumentMoniker": "Program.cs",
-              "ToolTip": "C:\\Users\\nimith.shetty\\Desktop\\AproSCM\\UserAdminApp\\Program.cs",
+              "ToolTip": "D:\\C# Training github\\ContactApp\\Program.cs",
               "RelativeToolTip": "Program.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAAnAAAA",
+              "ViewState": "AQIAAAUAAAAAAAAAAAAAAAgAAAAJAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-08-17T10:13:50.444Z",
               "EditorCaption": ""
@@ -166,9 +166,9 @@
               "$type": "Document",
               "DocumentIndex": 6,
               "Title": "User.cs",
-              "DocumentMoniker": "C:\\Users\\nimith.shetty\\Desktop\\AproSCM\\UserAdminApp\\Models\\User.cs",
+              "DocumentMoniker": "D:\\C# Training github\\ContactApp\\Models\\User.cs",
               "RelativeDocumentMoniker": "Models\\User.cs",
-              "ToolTip": "C:\\Users\\nimith.shetty\\Desktop\\AproSCM\\UserAdminApp\\Models\\User.cs",
+              "ToolTip": "D:\\C# Training github\\ContactApp\\Models\\User.cs",
               "RelativeToolTip": "Models\\User.cs",
               "ViewState": "AQIAAA8AAAAAAAAAAAA2wBsAAAAIAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -178,9 +178,9 @@
               "$type": "Document",
               "DocumentIndex": 7,
               "Title": "DataSerializer.cs",
-              "DocumentMoniker": "C:\\Users\\nimith.shetty\\Desktop\\AproSCM\\UserAdminApp\\Services\\DataSerializer.cs",
+              "DocumentMoniker": "D:\\C# Training github\\ContactApp\\Services\\DataSerializer.cs",
               "RelativeDocumentMoniker": "Services\\DataSerializer.cs",
-              "ToolTip": "C:\\Users\\nimith.shetty\\Desktop\\AproSCM\\UserAdminApp\\Services\\DataSerializer.cs",
+              "ToolTip": "D:\\C# Training github\\ContactApp\\Services\\DataSerializer.cs",
               "RelativeToolTip": "Services\\DataSerializer.cs",
               "ViewState": "AQIAAAkAAAAAAAAAAAAAABYAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -190,9 +190,9 @@
               "$type": "Document",
               "DocumentIndex": 8,
               "Title": "myUsers.json",
-              "DocumentMoniker": "C:\\Users\\nimith.shetty\\Desktop\\AproSCM\\UserAdminApp\\Assets\\myUsers.json",
+              "DocumentMoniker": "D:\\C# Training github\\ContactApp\\Assets\\myUsers.json",
               "RelativeDocumentMoniker": "Assets\\myUsers.json",
-              "ToolTip": "C:\\Users\\nimith.shetty\\Desktop\\AproSCM\\UserAdminApp\\Assets\\myUsers.json",
+              "ToolTip": "D:\\C# Training github\\ContactApp\\Assets\\myUsers.json",
               "RelativeToolTip": "Assets\\myUsers.json",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAABdAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
@@ -202,9 +202,9 @@
               "$type": "Document",
               "DocumentIndex": 9,
               "Title": "App.config",
-              "DocumentMoniker": "C:\\Users\\nimith.shetty\\Desktop\\AproSCM\\UserAdminApp\\App.config",
+              "DocumentMoniker": "D:\\C# Training github\\ContactApp\\App.config",
               "RelativeDocumentMoniker": "App.config",
-              "ToolTip": "C:\\Users\\nimith.shetty\\Desktop\\AproSCM\\UserAdminApp\\App.config",
+              "ToolTip": "D:\\C# Training github\\ContactApp\\App.config",
               "RelativeToolTip": "App.config",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAMAAABnAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000601|",
@@ -214,9 +214,9 @@
               "$type": "Document",
               "DocumentIndex": 10,
               "Title": "Contacts.cs",
-              "DocumentMoniker": "C:\\Users\\nimith.shetty\\Desktop\\AproSCM\\UserAdminApp\\Models\\Contacts.cs",
+              "DocumentMoniker": "D:\\C# Training github\\ContactApp\\Models\\Contacts.cs",
               "RelativeDocumentMoniker": "Models\\Contacts.cs",
-              "ToolTip": "C:\\Users\\nimith.shetty\\Desktop\\AproSCM\\UserAdminApp\\Models\\Contacts.cs",
+              "ToolTip": "D:\\C# Training github\\ContactApp\\Models\\Contacts.cs",
               "RelativeToolTip": "Models\\Contacts.cs",
               "ViewState": "AQIAABAAAAAAAAAAAAAgwBwAAAAIAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -226,9 +226,9 @@
               "$type": "Document",
               "DocumentIndex": 11,
               "Title": "ContactDetailNotFoundException.cs",
-              "DocumentMoniker": "C:\\Users\\nimith.shetty\\Desktop\\AproSCM\\UserAdminApp\\Exceptions\\ContactDetailNotFoundException.cs",
+              "DocumentMoniker": "D:\\C# Training github\\ContactApp\\Exceptions\\ContactDetailNotFoundException.cs",
               "RelativeDocumentMoniker": "Exceptions\\ContactDetailNotFoundException.cs",
-              "ToolTip": "C:\\Users\\nimith.shetty\\Desktop\\AproSCM\\UserAdminApp\\Exceptions\\ContactDetailNotFoundException.cs",
+              "ToolTip": "D:\\C# Training github\\ContactApp\\Exceptions\\ContactDetailNotFoundException.cs",
               "RelativeToolTip": "Exceptions\\ContactDetailNotFoundException.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAABKAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -238,9 +238,9 @@
               "$type": "Document",
               "DocumentIndex": 12,
               "Title": "ContactDetails.cs",
-              "DocumentMoniker": "C:\\Users\\nimith.shetty\\Desktop\\AproSCM\\UserAdminApp\\Models\\ContactDetails.cs",
+              "DocumentMoniker": "D:\\C# Training github\\ContactApp\\Models\\ContactDetails.cs",
               "RelativeDocumentMoniker": "Models\\ContactDetails.cs",
-              "ToolTip": "C:\\Users\\nimith.shetty\\Desktop\\AproSCM\\UserAdminApp\\Models\\ContactDetails.cs",
+              "ToolTip": "D:\\C# Training github\\ContactApp\\Models\\ContactDetails.cs",
               "RelativeToolTip": "Models\\ContactDetails.cs",
               "ViewState": "AQIAAA8AAAAAAAAAAAAQwBIAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -250,9 +250,9 @@
               "$type": "Document",
               "DocumentIndex": 13,
               "Title": "ContactNotExistException.cs",
-              "DocumentMoniker": "C:\\Users\\nimith.shetty\\Desktop\\AproSCM\\UserAdminApp\\Exceptions\\ContactNotExistException.cs",
+              "DocumentMoniker": "D:\\C# Training github\\ContactApp\\Exceptions\\ContactNotExistException.cs",
               "RelativeDocumentMoniker": "Exceptions\\ContactNotExistException.cs",
-              "ToolTip": "C:\\Users\\nimith.shetty\\Desktop\\AproSCM\\UserAdminApp\\Exceptions\\ContactNotExistException.cs",
+              "ToolTip": "D:\\C# Training github\\ContactApp\\Exceptions\\ContactNotExistException.cs",
               "RelativeToolTip": "Exceptions\\ContactNotExistException.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAABEAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -262,9 +262,9 @@
               "$type": "Document",
               "DocumentIndex": 14,
               "Title": "EmptyListException.cs",
-              "DocumentMoniker": "C:\\Users\\nimith.shetty\\Desktop\\AproSCM\\UserAdminApp\\Exceptions\\EmptyListException.cs",
+              "DocumentMoniker": "D:\\C# Training github\\ContactApp\\Exceptions\\EmptyListException.cs",
               "RelativeDocumentMoniker": "Exceptions\\EmptyListException.cs",
-              "ToolTip": "C:\\Users\\nimith.shetty\\Desktop\\AproSCM\\UserAdminApp\\Exceptions\\EmptyListException.cs",
+              "ToolTip": "D:\\C# Training github\\ContactApp\\Exceptions\\EmptyListException.cs",
               "RelativeToolTip": "Exceptions\\EmptyListException.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAA+AAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -274,9 +274,9 @@
               "$type": "Document",
               "DocumentIndex": 15,
               "Title": "UserNotFoundException.cs",
-              "DocumentMoniker": "C:\\Users\\nimith.shetty\\Desktop\\AproSCM\\UserAdminApp\\Exceptions\\UserNotFoundException.cs",
+              "DocumentMoniker": "D:\\C# Training github\\ContactApp\\Exceptions\\UserNotFoundException.cs",
               "RelativeDocumentMoniker": "Exceptions\\UserNotFoundException.cs",
-              "ToolTip": "C:\\Users\\nimith.shetty\\Desktop\\AproSCM\\UserAdminApp\\Exceptions\\UserNotFoundException.cs",
+              "ToolTip": "D:\\C# Training github\\ContactApp\\Exceptions\\UserNotFoundException.cs",
               "RelativeToolTip": "Exceptions\\UserNotFoundException.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAA4AAAABAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -286,9 +286,9 @@
               "$type": "Document",
               "DocumentIndex": 16,
               "Title": "AdminAccessException.cs",
-              "DocumentMoniker": "C:\\Users\\nimith.shetty\\Desktop\\AproSCM\\UserAdminApp\\Exceptions\\AdminAccessException.cs",
+              "DocumentMoniker": "D:\\C# Training github\\ContactApp\\Exceptions\\AdminAccessException.cs",
               "RelativeDocumentMoniker": "Exceptions\\AdminAccessException.cs",
-              "ToolTip": "C:\\Users\\nimith.shetty\\Desktop\\AproSCM\\UserAdminApp\\Exceptions\\AdminAccessException.cs",
+              "ToolTip": "D:\\C# Training github\\ContactApp\\Exceptions\\AdminAccessException.cs",
               "RelativeToolTip": "Exceptions\\AdminAccessException.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAUAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -298,9 +298,9 @@
               "$type": "Document",
               "DocumentIndex": 17,
               "Title": "OperationDeniedException.cs",
-              "DocumentMoniker": "C:\\Users\\nimith.shetty\\Desktop\\AproSCM\\UserAdminApp\\Exceptions\\OperationDeniedException.cs",
+              "DocumentMoniker": "D:\\C# Training github\\ContactApp\\Exceptions\\OperationDeniedException.cs",
               "RelativeDocumentMoniker": "Exceptions\\OperationDeniedException.cs",
-              "ToolTip": "C:\\Users\\nimith.shetty\\Desktop\\AproSCM\\UserAdminApp\\Exceptions\\OperationDeniedException.cs",
+              "ToolTip": "D:\\C# Training github\\ContactApp\\Exceptions\\OperationDeniedException.cs",
               "RelativeToolTip": "Exceptions\\OperationDeniedException.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAABFAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",

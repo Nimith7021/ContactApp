@@ -20,3 +20,26 @@ C:\Users\nimith.shetty\Desktop\AproSCM\UserAdminApp\bin\Debug\net8.0\runtimes\wi
 C:\Users\nimith.shetty\Desktop\AproSCM\UserAdminApp\bin\Debug\net8.0\runtimes\win\lib\net8.0\System.Diagnostics.EventLog.dll
 C:\Users\nimith.shetty\Desktop\AproSCM\UserAdminApp\obj\Debug\net8.0\UserAdminApp.csproj.AssemblyReference.cache
 C:\Users\nimith.shetty\Desktop\AproSCM\UserAdminApp\obj\Debug\net8.0\UserAdmi.6A6B7FDE.Up2Date
+D:\C# Training github\ContactApp\bin\Debug\net8.0\UserAdminApp.exe
+D:\C# Training github\ContactApp\bin\Debug\net8.0\UserAdminApp.dll.config
+D:\C# Training github\ContactApp\bin\Debug\net8.0\UserAdminApp.deps.json
+D:\C# Training github\ContactApp\bin\Debug\net8.0\UserAdminApp.runtimeconfig.json
+D:\C# Training github\ContactApp\bin\Debug\net8.0\UserAdminApp.dll
+D:\C# Training github\ContactApp\bin\Debug\net8.0\UserAdminApp.pdb
+D:\C# Training github\ContactApp\bin\Debug\net8.0\System.Configuration.ConfigurationManager.dll
+D:\C# Training github\ContactApp\bin\Debug\net8.0\System.Diagnostics.EventLog.dll
+D:\C# Training github\ContactApp\bin\Debug\net8.0\System.Security.Cryptography.ProtectedData.dll
+D:\C# Training github\ContactApp\bin\Debug\net8.0\runtimes\win\lib\net8.0\System.Diagnostics.EventLog.Messages.dll
+D:\C# Training github\ContactApp\bin\Debug\net8.0\runtimes\win\lib\net8.0\System.Diagnostics.EventLog.dll
+D:\C# Training github\ContactApp\obj\Debug\net8.0\UserAdminApp.csproj.AssemblyReference.cache
+D:\C# Training github\ContactApp\obj\Debug\net8.0\UserAdminApp.GeneratedMSBuildEditorConfig.editorconfig
+D:\C# Training github\ContactApp\obj\Debug\net8.0\UserAdminApp.AssemblyInfoInputs.cache
+D:\C# Training github\ContactApp\obj\Debug\net8.0\UserAdminApp.AssemblyInfo.cs
+D:\C# Training github\ContactApp\obj\Debug\net8.0\UserAdminApp.csproj.CoreCompileInputs.cache
+D:\C# Training github\ContactApp\obj\Debug\net8.0\UserAdminApp.sourcelink.json
+D:\C# Training github\ContactApp\obj\Debug\net8.0\UserAdmi.6A6B7FDE.Up2Date
+D:\C# Training github\ContactApp\obj\Debug\net8.0\UserAdminApp.dll
+D:\C# Training github\ContactApp\obj\Debug\net8.0\refint\UserAdminApp.dll
+D:\C# Training github\ContactApp\obj\Debug\net8.0\UserAdminApp.pdb
+D:\C# Training github\ContactApp\obj\Debug\net8.0\UserAdminApp.genruntimeconfig.cache
+D:\C# Training github\ContactApp\obj\Debug\net8.0\ref\UserAdminApp.dll

@@ -26,7 +26,9 @@ namespace UserAdminApp.Controller
                 $"2.Display all user Details\n" +
                 $"3.Update User Details\n" +
                 $"4.Delete user details\n" +
-                $"5.Back To User Portal\n");
+                $"5.Display Active Users\n" +
+                $"6.Display Inactive users\n" +
+                $"7.Back To User Portal\n");
 
             
                 try
@@ -72,6 +74,12 @@ namespace UserAdminApp.Controller
                     DeleteUserDetails();
                     break;
                 case 5:
+                    DisplayActive();
+                    break;
+                case 6:
+                    DisplayInactive();
+                    break;
+                case 7:
                    // AdminManagement.ExitAdminPanel();
                     UserMenu.UserApplication();
                     break;
@@ -132,6 +140,18 @@ namespace UserAdminApp.Controller
             Console.WriteLine("Successful Deletion!!");
         }
 
+        public static void DisplayActive()
+        {
+            var active = AdminManagement.DisplayActiveUsers();
+            active.ForEach(x => Console.WriteLine(x));
+        }
+
+        public static void DisplayInactive()
+        {
+            var inactive = AdminManagement.DisplayInactiveUsers();
+            inactive.ForEach(x => Console.WriteLine(x));
+        }
+
         public static void CreateInitialAdmin()
         {
             if(!AdminManagement.HasUserRecords())
@@ -147,5 +167,7 @@ namespace UserAdminApp.Controller
                 Console.WriteLine("Initial Admin Added Successfully");
             }    
         }
+
+        
     }
 }

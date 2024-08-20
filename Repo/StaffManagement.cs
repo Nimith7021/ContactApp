@@ -10,6 +10,7 @@ namespace UserAdminApp.Repo
 {
     internal class StaffManagement
     {
+
         public static void AddContact(int userId ,int contactId)
         {
             var user = AdminManagement.users.Where(user=>user.UserId==userId).FirstOrDefault();
