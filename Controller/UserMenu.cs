@@ -19,7 +19,8 @@ namespace UserAdminApp.Controller
 
             while (true) { 
 
-            Console.WriteLine("Enter your choice:\n" +
+            Console.WriteLine("Welcome to the User-Contact Application\n" +
+                "Enter your choice:\n" +
                 "Type 0 for Admin Access and 1 for Staff Access and 2 for exit \n");
             int choice = Convert.ToInt32(Console.ReadLine());
                 switch (choice)
