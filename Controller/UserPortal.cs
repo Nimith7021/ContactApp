@@ -14,9 +14,9 @@ namespace UserAdminApp.Controller
         public static void UserApplication()
         {
             User admin1 = new User(1, "Nimith", "Shetty", true);
-            User admin2 = new User(1, "John", "Doe", true);
-            User staff1 = new User(1, "Ram", "Shetty", false);
-            User staff2 = new User(1, "Ramesh", "Thevar", false);
+            User admin2 = new User(2, "John", "Doe", true);
+            User staff1 = new User(3, "Ram", "Shetty", false);
+            User staff2 = new User(4, "Ramesh", "Thevar", false);
 
             AdminManagement.AddAdmin(admin1);
             AdminManagement.AddAdmin(admin2);
