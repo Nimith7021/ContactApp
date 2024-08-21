@@ -7,7 +7,13 @@ namespace UserAdminApp
     {
         static void Main(string[] args)
         {
-            UserMenu.UserApplication();
+            try
+            {
+                UserPortal.UserApplication();
+            }catch(Exception ex)
+            {
+                Console.WriteLine(ex.Message);
+            }
         }
     }
 }

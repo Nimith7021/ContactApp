@@ -16,12 +16,9 @@ namespace UserAdminApp.Repo
 
 
 
-        public static bool HasUserRecords()
-        {
-            return users.Count > 0;
-        }
+        
 
-        public static void AddInitialAdmin(User user)
+        public static void AddAdmin(User user)
         {
             users.Add(user);
         } 
@@ -112,15 +109,6 @@ namespace UserAdminApp.Repo
             return user;
         }
 
-        //public static void ExitAdminPanel()
-        //{
-        //    DataSerializer.Serializer(users);
-        //}
-
-        //public static void ManageUsers()                  //for deserializing back to console from
-        //                                                                //json
-        //{
-        //    users = DataSerializer.DeSerializer();
-        //}
+      
     }
 }

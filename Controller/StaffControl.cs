@@ -25,7 +25,7 @@ namespace UserAdminApp.Controller
                 "6.Display all records\n" +
                 "7.Update contact Detals\n" +
                 "8.Delete Contact Detail Records\n" +
-                "9.Back To User Portal\n");
+                "9.Exit Staff Portal\n");
 
            
             
@@ -91,7 +91,7 @@ namespace UserAdminApp.Controller
                     DeleteDetail();
                     break;
                 case 9:
-                    UserMenu.UserApplication();
+                    Environment.Exit(0);
                     break;
                 default:
                     Console.WriteLine("Enter a valid Choice");

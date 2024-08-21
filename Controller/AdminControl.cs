@@ -17,7 +17,7 @@ namespace UserAdminApp.Controller
         public static void AdminAccessMenu()
         {
 
-            //AdminManagement.ManageUsers();
+           
 
             while (true) {
             Console.WriteLine($"Welcome To Admin Portal :\n" +
@@ -28,7 +28,7 @@ namespace UserAdminApp.Controller
                 $"4.Delete user details\n" +
                 $"5.Display Active Users\n" +
                 $"6.Display Inactive users\n" +
-                $"7.Back To User Portal\n");
+                $"7.Exit Admin Portal\n");
 
             
                 try
@@ -80,8 +80,7 @@ namespace UserAdminApp.Controller
                     DisplayInactive();
                     break;
                 case 7:
-                   // AdminManagement.ExitAdminPanel();
-                    UserMenu.UserApplication();
+                   Environment.Exit(0);
                     break;
                 default:
                     Console.WriteLine("Enter a valid choice");
@@ -152,21 +151,7 @@ namespace UserAdminApp.Controller
             inactive.ForEach(x => Console.WriteLine(x));
         }
 
-        public static void CreateInitialAdmin()
-        {
-            if(!AdminManagement.HasUserRecords())
-            {
-                Console.WriteLine("Enter the admin Id");
-                int id = Convert.ToInt32(Console.ReadLine());
-                Console.WriteLine("Enter the first Name of Admin");
-                string fname = Console.ReadLine();
-                Console.WriteLine("Enter the Last name of Admin");
-                string lname = Console.ReadLine();
-                User initialAdmin = new User(id, fname, lname, true);
-                AdminManagement.AddInitialAdmin(initialAdmin);
-                Console.WriteLine("Initial Admin Added Successfully");
-            }    
-        }
+        
 
         
     }
