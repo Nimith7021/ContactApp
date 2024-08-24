@@ -175,7 +175,7 @@ namespace UserAdminApp.Controller
             Console.WriteLine("Enter the type of Detail");
             string type = Console.ReadLine();
             StaffManagement.UpdateDetails(userId,contactId,detailId,type);
-            Console.WriteLine("Successful deletion of Contact Details");
+            Console.WriteLine("Successful Updation of Contact Details");
         }
 
         public static void DeleteDetail()

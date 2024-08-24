@@ -90,7 +90,7 @@ namespace UserAdminApp.Repo
         public static List<User> DisplayActiveUsers()
         {
             var user = users.Where(x => x.IsActive).ToList();  //true condition check
-            if (user == null)
+            if (user.Count==0)
             {
                 throw new EmptyListException("No active users");
             }
@@ -101,7 +101,7 @@ namespace UserAdminApp.Repo
         public static List<User> DisplayInactiveUsers()
         {
             var user = users.Where(x => !x.IsActive).ToList();  //false condition check
-            if (user == null)
+            if (user.Count==0)
             {
                 throw new EmptyListException("No Inactive users");
             }

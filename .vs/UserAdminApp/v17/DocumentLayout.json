@@ -3,28 +3,28 @@
   "WorkspaceRootPath": "D:\\C# Training github\\ContactApp\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{0FB69FC1-AC3A-4177-9AC3-57088CB5135F}|UserAdminApp.csproj|d:\\c# training github\\contactapp\\controller\\userportal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{0FB69FC1-AC3A-4177-9AC3-57088CB5135F}|UserAdminApp.csproj|solutionrelative:controller\\userportal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{0FB69FC1-AC3A-4177-9AC3-57088CB5135F}|UserAdminApp.csproj|d:\\c# training github\\contactapp\\repo\\adminmanagement.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{0FB69FC1-AC3A-4177-9AC3-57088CB5135F}|UserAdminApp.csproj|solutionrelative:repo\\adminmanagement.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{0FB69FC1-AC3A-4177-9AC3-57088CB5135F}|UserAdminApp.csproj|d:\\c# training github\\contactapp\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{0FB69FC1-AC3A-4177-9AC3-57088CB5135F}|UserAdminApp.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{0FB69FC1-AC3A-4177-9AC3-57088CB5135F}|UserAdminApp.csproj|d:\\c# training github\\contactapp\\repo\\staffmanagement.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0FB69FC1-AC3A-4177-9AC3-57088CB5135F}|UserAdminApp.csproj|solutionrelative:repo\\staffmanagement.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{0FB69FC1-AC3A-4177-9AC3-57088CB5135F}|UserAdminApp.csproj|d:\\c# training github\\contactapp\\controller\\staffcontrol.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{0FB69FC1-AC3A-4177-9AC3-57088CB5135F}|UserAdminApp.csproj|solutionrelative:controller\\staffcontrol.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
+      "AbsoluteMoniker": "D:0:0:{0FB69FC1-AC3A-4177-9AC3-57088CB5135F}|UserAdminApp.csproj|d:\\c# training github\\contactapp\\repo\\adminmanagement.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0FB69FC1-AC3A-4177-9AC3-57088CB5135F}|UserAdminApp.csproj|solutionrelative:repo\\adminmanagement.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{0FB69FC1-AC3A-4177-9AC3-57088CB5135F}|UserAdminApp.csproj|d:\\c# training github\\contactapp\\controller\\admincontrol.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{0FB69FC1-AC3A-4177-9AC3-57088CB5135F}|UserAdminApp.csproj|solutionrelative:controller\\admincontrol.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{0FB69FC1-AC3A-4177-9AC3-57088CB5135F}|UserAdminApp.csproj|d:\\c# training github\\contactapp\\repo\\staffmanagement.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{0FB69FC1-AC3A-4177-9AC3-57088CB5135F}|UserAdminApp.csproj|solutionrelative:repo\\staffmanagement.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{0FB69FC1-AC3A-4177-9AC3-57088CB5135F}|UserAdminApp.csproj|d:\\c# training github\\contactapp\\controller\\userportal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0FB69FC1-AC3A-4177-9AC3-57088CB5135F}|UserAdminApp.csproj|solutionrelative:controller\\userportal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0FB69FC1-AC3A-4177-9AC3-57088CB5135F}|UserAdminApp.csproj|d:\\c# training github\\contactapp\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0FB69FC1-AC3A-4177-9AC3-57088CB5135F}|UserAdminApp.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{0FB69FC1-AC3A-4177-9AC3-57088CB5135F}|UserAdminApp.csproj|d:\\c# training github\\contactapp\\models\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -82,72 +82,75 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 0,
+          "SelectedChildIndex": 4,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 4,
               "Title": "UserPortal.cs",
               "DocumentMoniker": "D:\\C# Training github\\ContactApp\\Controller\\UserPortal.cs",
               "RelativeDocumentMoniker": "Controller\\UserPortal.cs",
               "ToolTip": "D:\\C# Training github\\ContactApp\\Controller\\UserPortal.cs",
               "RelativeToolTip": "Controller\\UserPortal.cs",
-              "ViewState": "AQIAAAYAAAAAAAAAAAAqwBIAAAAkAAAA",
+              "ViewState": "AQIAAAsAAAAAAAAAAAAxwAsAAAAdAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-08-17T10:27:33.805Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-08-17T10:27:33.805Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 2,
               "Title": "AdminManagement.cs",
               "DocumentMoniker": "D:\\C# Training github\\ContactApp\\Repo\\AdminManagement.cs",
               "RelativeDocumentMoniker": "Repo\\AdminManagement.cs",
               "ToolTip": "D:\\C# Training github\\ContactApp\\Repo\\AdminManagement.cs",
               "RelativeToolTip": "Repo\\AdminManagement.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAG8AAAAGAAAA",
+              "ViewState": "AQIAAFkAAAAAAAAAAIA1wFwAAAAdAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-08-18T17:22:19.53Z"
+              "WhenOpened": "2024-08-18T17:22:19.53Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 3,
               "Title": "AdminControl.cs",
               "DocumentMoniker": "D:\\C# Training github\\ContactApp\\Controller\\AdminControl.cs",
               "RelativeDocumentMoniker": "Controller\\AdminControl.cs",
               "ToolTip": "D:\\C# Training github\\ContactApp\\Controller\\AdminControl.cs",
               "RelativeToolTip": "Controller\\AdminControl.cs",
-              "ViewState": "AQIAAAsAAAAAAAAAAAAuwBMAAAALAAAA",
+              "ViewState": "AQIAAIwAAAAAAAAAAAAAAJUAAAAMAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-08-17T10:32:42.776Z"
+              "WhenOpened": "2024-08-17T10:32:42.776Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 1,
               "Title": "StaffControl.cs",
               "DocumentMoniker": "D:\\C# Training github\\ContactApp\\Controller\\StaffControl.cs",
               "RelativeDocumentMoniker": "Controller\\StaffControl.cs",
               "ToolTip": "D:\\C# Training github\\ContactApp\\Controller\\StaffControl.cs",
               "RelativeToolTip": "Controller\\StaffControl.cs",
-              "ViewState": "AQIAAA4AAAAAAAAAAAAQwBsAAAApAAAA",
+              "ViewState": "AQIAAKQAAAAAAAAAAAAuwLEAAAAyAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-08-17T10:32:32.349Z"
+              "WhenOpened": "2024-08-17T10:32:32.349Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 0,
               "Title": "StaffManagement.cs",
               "DocumentMoniker": "D:\\C# Training github\\ContactApp\\Repo\\StaffManagement.cs",
               "RelativeDocumentMoniker": "Repo\\StaffManagement.cs",
               "ToolTip": "D:\\C# Training github\\ContactApp\\Repo\\StaffManagement.cs",
               "RelativeToolTip": "Repo\\StaffManagement.cs",
-              "ViewState": "AQIAAAYAAAAAAAAAAAAAAA0AAAAjAAAA",
+              "ViewState": "AQIAAHEAAAAAAAAAAAAAwBoAAAAJAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-08-17T10:51:33.492Z"
+              "WhenOpened": "2024-08-17T10:51:33.492Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 5,
               "Title": "Program.cs",
               "DocumentMoniker": "D:\\C# Training github\\ContactApp\\Program.cs",
               "RelativeDocumentMoniker": "Program.cs",
